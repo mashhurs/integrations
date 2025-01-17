@@ -3,10 +3,10 @@
   changes:
     - description: Use secrets for credentials
       type: enhancement
-      link: https://github.com/elastic/integrations/pull/x
+      link: https://github.com/elastic/integrations/pull/12392
     - description: Update spec version to 3.0.4
       type: enhancement
-      link: https://github.com/elastic/integrations/pull/x
+      link: https://github.com/elastic/integrations/pull/12392
 - version: "2.4.11"
   changes:
     - description: Guard against missing elements in codec payload
